@@ -1,0 +1,1 @@
+Tiffinwala is a web application designed to streamline the process of ordering and delivering homemade meals. This platform connects customers with local home chefs and messes, allowing users to order freshly prepared meals on a subscription or one-time basis. The service is available in multiple cities with options for pure veg and non-veg meals.
